@@ -9,4 +9,4 @@ Foi desenvolvido o jogo Campo Minado utilizando a Framework React Native
 React Native, Expo
 ## Screenshots
 
-<img src="https://github.com/fealex95/react-native-calculator-cod3r-curso/blob/main/Screenshots/WhatsApp%20Image%202022-03-26%20at%2012.29.21.jpeg" width=190 />
+<img src="https://github.com/fealex95/react-native-mines-cod3r-curso/blob/main/Screenshots/WhatsApp%20Image%202022-03-26%20at%2016.28.16.jpeg" width=190 />
